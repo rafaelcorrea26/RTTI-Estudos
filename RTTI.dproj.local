@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/08/25 21:07:54.236,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/25 21:09:32.163,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/25 21:10:27.358,D:\projetos\RTTI-Estudos\uProduto.pas=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/25 21:27:57.686,D:\projetos\RTTI-Estudos\View.Principal.pas=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/25 21:27:57.686,D:\projetos\RTTI-Estudos\View.Principal.dfm=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/25 21:28:15.167,D:\projetos\RTTI-Estudos\RTTI.dproj=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/25 21:40:26.297,=D:\projetos\RTTI-Estudos\Unit1.pas</Transaction>
+    <Transaction>2024/08/25 21:41:49.478,D:\projetos\RTTI-Estudos\uProdutoDinamico.pas=D:\projetos\RTTI-Estudos\Unit1.pas</Transaction>
+    <Transaction>2024/08/25 22:15:29.099,=D:\projetos\RTTI-Estudos\Unit1.pas</Transaction>
+    <Transaction>2024/08/25 22:19:51.591,D:\projetos\RTTI-Estudos\uMensagem.pas=D:\projetos\RTTI-Estudos\Unit1.pas</Transaction>
+    <Transaction>2024/08/25 22:39:46.016,=D:\projetos\RTTI-Estudos\Unit1.pas</Transaction>
+    <Transaction>2024/08/25 22:43:40.084,D:\projetos\RTTI-Estudos\uMensagemList.pas=D:\projetos\RTTI-Estudos\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
