@@ -6,7 +6,8 @@ uses
   uProduto in 'uProduto.pas',
   uProdutoDinamico in 'uProdutoDinamico.pas',
   uMensagem in 'uMensagem.pas',
-  uMensagemList in 'uMensagemList.pas';
+  uMensagemList in 'uMensagemList.pas',
+  uFormularioBaseRTTI in 'uFormularioBaseRTTI.pas';
 
 {$R *.res}
 

@@ -106,6 +106,7 @@
         <DCCReference Include="uProdutoDinamico.pas"/>
         <DCCReference Include="uMensagem.pas"/>
         <DCCReference Include="uMensagemList.pas"/>
+        <DCCReference Include="uFormularioBaseRTTI.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
